@@ -1,7 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18b97362-debf-4316-ac35-de3c47118637" name="Changes" comment="" />
+    <list default="true" id="18b97362-debf-4316-ac35-de3c47118637" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/bin/lldb/helpers/renderers/jb_lldb_builtin_formatters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/bin/dt_socket.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/bin/fontmanager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/bin/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/bin/vcruntime140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/legal/java.sql/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/legal/java.xml/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/jbr/legal/jdk.net/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/license/fest-NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/license/libsfntly.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/license/libtiff_directory.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-js-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/Kotlin/kotlinc/license/third_party/aosp_license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/Kotlin/lib/kotlin-base-jps.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/Kotlin/lib/kotlinc.android-extensions-compiler-plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/argparse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/base64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/email/mime/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/email/mime/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/encodings/cp1257.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/encodings/iso8859_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/encodings/iso8859_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/encodings/raw_unicode_escape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/html/entities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/multiprocessing/popen_spawn_posix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android-ndk/resources/lldb/lib/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/lib/android.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/lib/explainer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/lib/flatbuffers-java-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/lib/google-api-services-oauth2-v2-rev20200213-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/lib/smali-baksmali-3.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/device-art-resources/nexus_9/land_back.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/device-art-resources/nexus_s/port_shadow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/device-art-resources/pixel_7_pro/mask.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/device-art-resources/pixel_8/mask.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/device-art-resources/tablet/tablet_shadow_simple_land.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/device-art-resources/xoom/land_back.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/sampleData/backgrounds/scenic/A_Photographer.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/android/resources/sampleData/backgrounds/scenic/Kauai.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/design-tools/resources/layoutlib/data/fonts/NotoSansCoptic-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/design-tools/resources/layoutlib/data/fonts/NotoSansNKo-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/design-tools/resources/layoutlib/data/fonts/NotoSansPhoenician-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/editorconfig/lib/editorconfig.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/textmate/lib/bundles/coffeescript/snippets/coffeescript.code-snippets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/textmate/lib/bundles/cpp/cgmanifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/textmate/lib/bundles/git-base/languages/git-commit.language-configuration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/textmate/lib/bundles/latex/syntaxes/cpp-grammar-bailout.tmLanguage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/textmate/lib/bundles/objective-c/syntaxes/objective-c++.tmLanguage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/textmate/lib/bundles/rust/syntaxes/rust.tmLanguage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/plugins/textmate/lib/bundles/scss/package.nls.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Android Studio/uninstall.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CLG/dbms/dbms/SQL _ Join (Inner, Left, Right and Full Joins) -.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CLG/dbms/dbms/What are the various data models.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Flutter_projects/classico/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Flutter_projects/classico/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Flutter_projects/classico/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Flutter_projects/classico/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Flutter_projects/classico/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Flutter_projects/classico/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/configuration-editing/schemas/attachContainer.schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/git-base/package.nls.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/html/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/jake/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/julia/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/latex/cpp-bailout-license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/latex/syntaxes/LaTeX.tmLanguage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/markdown-language-features/server/build/pipeline.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/markdown-math/notebook-out/fonts/KaTeX_Size4-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/microsoft-authentication/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/chromehash_bg.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.object.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/node_modules/typescript/lib/lib.es2020.string.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/node_modules/typescript/lib/lib.es2022.sharedmemory.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/node_modules/typescript/lib/lib.esnext.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/notebook-renderers/renderer-out/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/objective-c/syntaxes/objective-c++.tmLanguage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/php-language-features/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/search-result/package.nls.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/simple-browser/media/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/sql/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/theme-defaults/fileicons/images/document-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/theme-monokai-dimmed/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/extensions/xml/syntaxes/xml.tmLanguage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/out/bootstrap-fork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/out/vs/workbench/contrib/extensions/browser/media/theme-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-profile.zsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Microsoft VS Code/resources/app/resources/win32/css.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../container/android/app/src/main/kotlin/com/example/container/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../container/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../container/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../container/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../container/windows/runner/utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,22 +112,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ldga0cSCiGDMlKfPZfBdN6f9qY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "A:/Users/Ansh/IdeaProjects/Ansh_Projects/stock-analysis/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/Users/Ansh/IdeaProjects/Ansh_Projects/stock-analysis/src&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

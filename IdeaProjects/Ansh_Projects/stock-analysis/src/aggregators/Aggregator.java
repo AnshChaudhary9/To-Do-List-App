@@ -14,11 +14,7 @@ public abstract class Aggregator {
 	public Aggregator(List<Double> numbers){
 		numbers = new ArrayList<Double>(numbers);
 	}
-	
-	/**
-	 * add data to the given collection
-	 * 
-	 */
+
 	public void add(double number) {
 		numbers.add(number);
 	}

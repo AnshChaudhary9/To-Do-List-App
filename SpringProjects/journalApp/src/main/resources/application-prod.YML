@@ -1,0 +1,15 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://rohitKataria:rohitKataria@cluster0.pw2zb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: journaldb
+      auto-index-creation: true
+  main:
+    allow-circular-references: true
+  application:
+    name: Journal App
+server:
+  port: 8080
+weather:
+  api:
+    key:0ebdc9db90c19e4ddb066cbdcf186aef
