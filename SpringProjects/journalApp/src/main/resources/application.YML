@@ -10,6 +10,7 @@ spring:
     name: Journal App
 server:
   port: 8080
+
 weather:
   api:
-    key:0ebdc9db90c19e4ddb066cbdcf186aef
+    key: 0ebdc9db90c19e4ddb066cbdcf186aef
