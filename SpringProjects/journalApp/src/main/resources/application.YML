@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://rohitKataria:rohitKataria@cluster0.pw2zb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      uri: ${MONGODB_URI}
       database: journaldb
       auto-index-creation: true
   main:
@@ -9,8 +9,8 @@ spring:
   application:
     name: Journal App
 server:
-  port: 8080
+  port: ${SERVER_PORT}
 
 weather:
   api:
-    key: 0ebdc9db90c19e4ddb066cbdcf186aef
+    key: ${WEATHER_API_KEY}
