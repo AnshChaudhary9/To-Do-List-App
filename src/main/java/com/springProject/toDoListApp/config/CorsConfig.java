@@ -16,7 +16,7 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
                         // .allowedOrigins("http://localhost:3000")
-                        .allowedOrigins("https://jazzy-truffle-f68eda.netlify.app/")
+                        .allowedOrigins("https://jazzy-truffle-f68eda.netlify.app")
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);
