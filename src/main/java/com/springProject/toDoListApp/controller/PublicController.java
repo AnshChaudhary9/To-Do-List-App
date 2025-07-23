@@ -36,8 +36,19 @@ public class PublicController {
     }
 
     @PostMapping
-    public void createUser(@RequestBody User user){
-        userService.saveNewUser(user);
+    public ResponseEntity<String> createUser(@RequestBody User user){
+        if (user != null){userService.saveNewUser(user);
+        org.springframework.security.core.userdetails.User userDetails =
+                new org.springframework.security.core.userdetails.User(
+                        user.getUserName(),
+                        user.getPassword(), // Password is not used for token generation, but required by UserDetails constructor
+                        user.getRoles().stream().map(role -> new SimpleGrantedAuthority(role)).collect(Collectors.toList()) // Assuming SimpleGrantedAuthority
+                );
+        String jwt = jwtService.generateToken(userDetails);
+        return ResponseEntity.ok(jwt);
+        } else {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Invalid credentials");
+        }
     }
 
     @PostMapping("/login")
